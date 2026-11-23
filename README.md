@@ -1,6 +1,6 @@
 # Variable Zero: authority gate for AI agents (v0.3), evaluated on AgentDojo
 
-Code for the technical report "Variable Zero: An Authority Gate for AI Agents Under Adaptive Attack" (Ricci, 2026). Report: [DOI to be added]. Data and logs: [DOI to be added].
+Code for the technical report "Variable Zero: An Authority Gate for AI Agents Under Adaptive Attack" (Ricci, 2026). Report: https://doi.org/10.5281/zenodo.24394425. Data and logs: https://doi.org/10.5281/zenodo.24394583.
 
 ## What the gate does
 
